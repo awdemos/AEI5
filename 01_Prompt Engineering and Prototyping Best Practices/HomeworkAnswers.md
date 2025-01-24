@@ -65,7 +65,6 @@ Please evaluate your system on the following questions:
    Therefore, the answer of 3 packs of apples and 3 packs of oranges is mathematically correct and will provide exactly 12 apples and 9 oranges.
 
    Citations:
-   [1] https://pplx-res.cloudinary.com/image/upload/v1737501619/user_uploads/kXRXWKUJKKaZSth/image.jpg
    [2] https://www.wolframalpha.com/input?input=3+packs+%2A+4+apples+per+pack
    [3] https://www.wolframalpha.com/input?input=3+packs+%2A+3+oranges+per+pack
    [4] https://www.wolframalpha.com/input?input=3+%2A+4

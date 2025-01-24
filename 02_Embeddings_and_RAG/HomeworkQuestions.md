@@ -50,6 +50,3 @@ If you do not know the answer, or cannot answer, please respond with "I don't kn
 ```
 
 This prompting strategy encourages the model to provide more detailed, well-reasoned responses.
-
-Citations:
-[1] https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/40848149/c349121e-6bbd-4eae-a656-40fdb07a8f54/paste.txt
